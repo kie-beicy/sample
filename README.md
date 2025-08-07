@@ -1,3 +1,4 @@
-sample����
-�Egit�̃e�X�g�����Ă��܂��B
-�E�s��ǉ����܂����B
+sample説明
+・gitのテストをしています。
+・行を追加しました。
+・うまくいきません。
