@@ -1,1 +1,2 @@
-sample
+sample説明
+・gitのテストをしています。
